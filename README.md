@@ -1,2 +1,2 @@
 # server
-where the server code for midinote lives
+Where the server code for midinote lives.
